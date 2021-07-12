@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="2Dkc-+.$m}_f/N;i4{fB" x="0" y="0"><statement name="HANDLER"><block type="device_print_message" id="hNO8.KiNpr.L~47VB9i?"><value name="text"><shadow type="text" id="`_HfVP/ga`psi3dPvDV["><field name="TEXT">"BIENVENIDA"</field></shadow></value></block></statement></block><block type="device_forever" id="^V5j*/W~6cezpDrnJHWl" x="355" y="16"/><block type="device_button_event" id="!PTHOJ)MhzK~$[#;BEaz" x="3" y="164"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_print_message" id="+y,T1UXL]_s?0_3r[;mi"><value name="text"><shadow type="text" id="2eBD]zTP4[ts:xS]Y%s3"><field name="TEXT">"DANNA GARCÍA"</field></shadow></value></block></statement></block><block type="device_button_event" id="+]Rqymmuk^XL8F_fj;M9" x="11" y="340"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="device_print_message" id="Tbo!6T|_Gr{tqhuk,)Z0"><value name="text"><shadow type="text" id="prvRZlt^#Q:-x-?Q7~Dr"><field name="TEXT">9-10</field></shadow></value></block></statement></block><block type="device_button_event" id="$[F+dBl@:1Y@A$%,ApBW" x="14" y="480"><field name="NAME">Button.AB</field><statement name="HANDLER"><block type="device_show_leds" id="{.[p*`*.H5.SdXbXvUMp"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . # . . 
+        . # # # . 
+        # # # # #
+        `</field></block></statement></block></xml>
